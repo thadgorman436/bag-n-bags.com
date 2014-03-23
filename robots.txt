@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /luggage_16/
+Sitemap: http://www.bag-n-bags.com/sitemap.xml 
